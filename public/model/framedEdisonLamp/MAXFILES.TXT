@@ -1,0 +1,12 @@
+﻿F:\project\3DS MAX\object\decorative 2\t$m$p$$$\framed edison lamp.max
+F:\project\3DS MAX\object\decorative 2\t$m$p$$$\MAXFILES.TXT
+D:\map\Spherical Map - 2x1K(boed.ir)\DH220SN.hdr
+F:\project\3DS MAX\object\decorative 2\Maps\texture-seamless-wood-difuse.jpg
+F:\project\3DS MAX\object\decorative 2\Maps\texture-seamless-wood-reflect.jpg
+F:\project\3DS MAX\object\decorative 2\Maps\texture-seamless-wood-bump.jpg
+D:\map\dirt\28-Free-High-Res-Photoshop-Brushes-Grungy-Texture.jpg
+F:\project\3DS MAX\object\decorative 2\Maps\AI_27_01_wood_chair.jpg
+F:\project\3DS MAX\object\decorative 2\Maps\AI_27_01_wood_chair_bump.jpg
+F:\project\3DS MAX\object\decorative 2\Maps\AI_27_01_wood_chair bump.JPG
+F:\project\3DS MAX\object\lamp buble\lamp_001\Maps\dirt_2.jpg
+D:\map\dirt\dirty-decals-high-resolution-decal-texture_640v640.png

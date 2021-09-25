@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2749194 */
+  src: url('iconfont.woff2?t=1629446908515') format('woff2'),
+       url('iconfont.woff?t=1629446908515') format('woff'),
+       url('iconfont.ttf?t=1629446908515') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ri:before {
+  content: "\e9af";
+}
+
+.icon-yue:before {
+  content: "\e9ae";
+}
+
+.icon-shandian:before {
+  content: "\e61f";
+}
+
+.icon-shandian1:before {
+  content: "\e600";
+}
+
+.icon-shouye:before {
+  content: "\e637";
+}
+
+.icon-reportForm:before {
+  content: "\e6df";
+}
+
+.icon-huichenyujing:before {
+  content: "\e636";
+}
+
+.icon-yunweiguanli:before {
+  content: "\e628";
+}
+
+.icon-shujuchaxun:before {
+  content: "\e61c";
+}
+
+.icon-yunxingjiance:before {
+  content: "\e61d";
+}
+
+.icon-diqiu:before {
+  content: "\e61e";
+}
+
+.icon-yunyingfenxi:before {
+  content: "\e6fa";
+}
+
+.icon-shebeifenxi:before {
+  content: "\e63d";
+}
+
+.icon-xitongshezhi:before {
+  content: "\e651";
+}
+
+.icon-qingtian:before {
+  content: "\e61b";
+}
+
+.icon-dianzhan:before {
+  content: "\e61a";
+}
+
+.icon-wuran:before {
+  content: "\e619";
+}
+
+.icon-wendu:before {
+  content: "\e618";
+}
+
+.icon-humidity:before {
+  content: "\e617";
+}
+
+.icon-wind:before {
+  content: "\e616";
+}
+
+.icon-ling:before {
+  content: "\e615";
+}
+
+.icon-huiliuxiang:before {
+  content: "\e614";
+}
+
+.icon-zhuangji:before {
+  content: "\e613";
+}
+
+.icon-jiajian:before {
+  content: "\e612";
+}
+
+.icon-treechart:before {
+  content: "\e611";
+}
+
+.icon-quanping:before {
+  content: "\e610";
+}
+
+.icon-profile:before {
+  content: "\e60f";
+}
+
+.icon-ri-3:before {
+  content: "\e60e";
+}
+
+.icon-nian:before {
+  content: "\e60c";
+}
+
+.icon-yearele:before {
+  content: "\e60b";
+}
+
+.icon-listdian:before {
+  content: "\e60a";
+}
+
+.icon-co2:before {
+  content: "\e6fb";
+}
+
+.icon-biaozhunmei:before {
+  content: "\e608";
+}
+
+.icon-radiation:before {
+  content: "\e607";
+}
+
+.icon-dayele:before {
+  content: "\e606";
+}
+
+.icon-monthele:before {
+  content: "\e605";
+}
+
+.icon-fushe:before {
+  content: "\e604";
+}
+
+.icon-pmark:before {
+  content: "\e603";
+}
+
+.icon-power:before {
+  content: "\e602";
+}
+
+.icon-tree:before {
+  content: "\e601";
+}
+

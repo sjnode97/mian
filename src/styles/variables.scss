@@ -1,0 +1,74 @@
+// base color
+// $blue:#324157;
+$light-blue:#3A71A8;
+// $red:#C03639;
+$pink: #E65D6E;
+// $green: #30B08F;
+$tiffany: #4AB7BD;
+// $yellow:#FEC171;
+$panGreen: #30B08F;
+
+// sidebar
+$menuText:rgb(84 186 249);
+$menuActiveText:#f4f4f5;
+$subMenuActiveText:#f4f4f5; // https://github.com/ElemeFE/element/issues/12951
+
+$menuBg:rgb(11,27,52);
+$menuHover:#010c16;
+
+$subMenuBg:rgb(11,27,52);
+$subMenuHover:#010c16;
+
+$sideBarWidth: 208px;
+
+// 基本颜色
+$blue:#1ec0ff;
+$blue-light:#00dffc; // 图表
+$blue-dark:#40a8f7;  // 图表
+$blue-green:#48dddb;
+$black-dark:#383838;
+$blue-font:#48dddb;
+$gray:#d3e3f6;
+
+// 用于告警颜色
+$red:#bd2e25;
+$yellow-dark:#ffb411;
+$yellow:#fbe04e;
+$orange:#ed7d31; 
+$green:#8eb966;
+
+// 驾驶舱
+$bg:#0a1b37; //驾驶舱背景
+$bg-module:#283654; //驾驶舱模块背景
+$bg-module-border:#315a75; //驾驶舱模块背景 边框
+$bg-num:#57baf9; //驾驶舱数字块背景/头部时间颜色
+$green-font-color:#85e0c7;  //驾驶舱模块标题文字颜色
+$num-font-color:#5abdf8; //驾驶舱数字块背景
+
+// 字号大小
+$bigTitle-font-size: 36px;        //大标题
+$moduleTitle-font-size: 22px;     //模块标题
+$searchTitle-font-size: 18px;     //电站设备搜索
+$chartTableTitle-font-size: 16px; //组件及表格标题 
+$numTitle-font-size: 16px;        //数字 
+$unitTitle-font-size: 14px;       //单位
+$tableCell-font-size: 14px;       //表格内容 
+$menu-font-size: 14px;            //菜单
+$icon-font-size: 12px;            //图标图例
+$ruler-font-size: 10px;           //坐标尺单位
+
+// 顶部菜单、logo高度
+$navHeight: 70px;
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+  navHeight: $navHeight;
+}
